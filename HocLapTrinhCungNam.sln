@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part18_CRUD_ADOdotNET", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part14_InterfaceSegregation", "Part14_InterfaceSegregation\Part14_InterfaceSegregation.csproj", "{6DB02C62-F5E7-4A96-9E46-8CC43D98AA07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part20_RepositoryDesignPattern", "Part20_RepositoryDesignPattern\Part20_RepositoryDesignPattern.csproj", "{A162E953-E0A9-4065-8E19-07B6650141AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{6DB02C62-F5E7-4A96-9E46-8CC43D98AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DB02C62-F5E7-4A96-9E46-8CC43D98AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DB02C62-F5E7-4A96-9E46-8CC43D98AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A162E953-E0A9-4065-8E19-07B6650141AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A162E953-E0A9-4065-8E19-07B6650141AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A162E953-E0A9-4065-8E19-07B6650141AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A162E953-E0A9-4065-8E19-07B6650141AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
