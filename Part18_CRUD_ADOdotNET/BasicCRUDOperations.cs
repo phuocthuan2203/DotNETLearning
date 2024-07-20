@@ -8,12 +8,15 @@ public class BasicCRUDOperations
     {
         using var conn = DbConnect.GetConnection();
 
-        // CreateEmployee(conn, "Nguyen Phuoc Thuan", "Chief Executive Officer", 100000);
-        // ReadEmployee(conn);
+        CreateEmployee(conn, "Nguyen Phuoc Thuan", "Chief Executive Officer", 100000);
+        CreateEmployee(conn, "Nguyen Van A", "Tester", 30000);
+        CreateEmployee(conn, "Nguyen Van B", "Developer", 55000);
+        CreateEmployee(conn, "Nguyen Van C", "Business Analyst", 11000);
+        ReadEmployee(conn);
         // UpdateEmployee(conn, 2, "Thuan Nguyen Phuoc");
         // ReadEmployee(conn);
-        DeleteEmployee(conn, 3);
-        ReadEmployee(conn);
+        // DeleteEmployee(conn, 3);
+        // ReadEmployee(conn);
         
         DbConnect.CloseConnection();
     }
