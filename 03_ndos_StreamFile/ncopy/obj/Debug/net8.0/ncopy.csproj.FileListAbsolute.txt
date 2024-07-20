@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/bin/Debug/net8.0/ncopy
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/bin/Debug/net8.0/ncopy.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/bin/Debug/net8.0/ncopy.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/bin/Debug/net8.0/ncopy.dll
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/bin/Debug/net8.0/ncopy.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.dll
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/refint/ncopy.dll
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ncopy.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ncopy/obj/Debug/net8.0/ref/ncopy.dll

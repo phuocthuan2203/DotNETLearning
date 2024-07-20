@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/thuannguyenphuoc/Documents/dotNET/APITesting/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.APITesting.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.APITesting.props",
+      "PackagePath": "build\\APITesting.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.APITesting.props",
+      "PackagePath": "buildMultiTargeting\\APITesting.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.APITesting.props",
+      "PackagePath": "buildTransitive\\APITesting.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

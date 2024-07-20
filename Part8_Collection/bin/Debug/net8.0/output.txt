@@ -1,0 +1,21 @@
+apple
+banana
+grape
+orange
+lemon
+kiwi
+pineapple
+mango
+blueberry
+strawberry
+After sorting:
+apple
+banana
+blueberry
+grape
+kiwi
+lemon
+mango
+orange
+pineapple
+strawberry

@@ -1,0 +1,11 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/bin/Debug/net8.0/Part11_ClassLibrary1.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/bin/Debug/net8.0/Part11_ClassLibrary1.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/bin/Debug/net8.0/Part11_ClassLibrary1.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/Part11_ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/Part11_ClassLibrary1.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/Part11_ClassLibrary1.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/Part11_ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/Part11_ClassLibrary1.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/refint/Part11_ClassLibrary1.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/Part11_ClassLibrary1.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part11_ClassLibrary1/obj/Debug/net8.0/ref/Part11_ClassLibrary1.dll

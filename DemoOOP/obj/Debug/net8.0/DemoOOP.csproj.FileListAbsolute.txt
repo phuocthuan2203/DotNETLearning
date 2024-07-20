@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/bin/Debug/net8.0/DemoOOP
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/bin/Debug/net8.0/DemoOOP.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/bin/Debug/net8.0/DemoOOP.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/bin/Debug/net8.0/DemoOOP.dll
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/bin/Debug/net8.0/DemoOOP.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.dll
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/refint/DemoOOP.dll
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/DemoOOP.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/DemoOOP/obj/Debug/net8.0/ref/DemoOOP.dll

@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/bin/Debug/net8.0/Part10_LINQ2
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/bin/Debug/net8.0/Part10_LINQ2.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/bin/Debug/net8.0/Part10_LINQ2.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/bin/Debug/net8.0/Part10_LINQ2.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/bin/Debug/net8.0/Part10_LINQ2.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/refint/Part10_LINQ2.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/Part10_LINQ2.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part10_LINQ2/obj/Debug/net8.0/ref/Part10_LINQ2.dll

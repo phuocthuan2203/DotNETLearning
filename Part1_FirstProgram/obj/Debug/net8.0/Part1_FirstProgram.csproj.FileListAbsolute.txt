@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/bin/Debug/net8.0/Part1_FirstProgram
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/bin/Debug/net8.0/Part1_FirstProgram.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/bin/Debug/net8.0/Part1_FirstProgram.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/bin/Debug/net8.0/Part1_FirstProgram.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/bin/Debug/net8.0/Part1_FirstProgram.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/refint/Part1_FirstProgram.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/Part1_FirstProgram.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part1_FirstProgram/obj/Debug/net8.0/ref/Part1_FirstProgram.dll

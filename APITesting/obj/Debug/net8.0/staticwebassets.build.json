@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "zrbZXGSUOFEoRwxdH8OikNSSlRGDosrQ+OpMe7vsVII=",
+  "Source": "APITesting",
+  "BasePath": "_content/APITesting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APITesting/wwwroot",
+      "Source": "APITesting",
+      "ContentRoot": "/Users/thuannguyenphuoc/Documents/dotNET/APITesting/wwwroot/",
+      "BasePath": "_content/APITesting",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/thuannguyenphuoc/Documents/dotNET/APITesting/wwwroot/index.html",
+      "SourceId": "APITesting",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thuannguyenphuoc/Documents/dotNET/APITesting/wwwroot/",
+      "BasePath": "_content/APITesting",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

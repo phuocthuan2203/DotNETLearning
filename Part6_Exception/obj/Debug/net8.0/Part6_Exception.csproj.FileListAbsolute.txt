@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/bin/Debug/net8.0/Part6_Exception
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/bin/Debug/net8.0/Part6_Exception.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/bin/Debug/net8.0/Part6_Exception.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/bin/Debug/net8.0/Part6_Exception.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/bin/Debug/net8.0/Part6_Exception.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/refint/Part6_Exception.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/Part6_Exception.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part6_Exception/obj/Debug/net8.0/ref/Part6_Exception.dll

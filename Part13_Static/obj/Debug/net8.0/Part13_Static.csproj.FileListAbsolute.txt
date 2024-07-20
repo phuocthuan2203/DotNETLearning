@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/bin/Debug/net8.0/Part13_Static
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/bin/Debug/net8.0/Part13_Static.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/bin/Debug/net8.0/Part13_Static.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/bin/Debug/net8.0/Part13_Static.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/bin/Debug/net8.0/Part13_Static.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/refint/Part13_Static.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/Part13_Static.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part13_Static/obj/Debug/net8.0/ref/Part13_Static.dll

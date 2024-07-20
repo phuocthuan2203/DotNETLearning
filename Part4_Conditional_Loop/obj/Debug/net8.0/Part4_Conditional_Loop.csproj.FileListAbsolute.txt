@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/bin/Debug/net8.0/Part4_Conditional_Loop
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/bin/Debug/net8.0/Part4_Conditional_Loop.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/bin/Debug/net8.0/Part4_Conditional_Loop.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/bin/Debug/net8.0/Part4_Conditional_Loop.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/bin/Debug/net8.0/Part4_Conditional_Loop.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/refint/Part4_Conditional_Loop.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/Part4_Conditional_Loop.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part4_Conditional_Loop/obj/Debug/net8.0/ref/Part4_Conditional_Loop.dll

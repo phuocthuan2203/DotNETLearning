@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/bin/Debug/net8.0/Part12_Polymorphism
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/bin/Debug/net8.0/Part12_Polymorphism.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/bin/Debug/net8.0/Part12_Polymorphism.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/bin/Debug/net8.0/Part12_Polymorphism.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/bin/Debug/net8.0/Part12_Polymorphism.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/refint/Part12_Polymorphism.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/Part12_Polymorphism.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part12_Polymorphism/obj/Debug/net8.0/ref/Part12_Polymorphism.dll

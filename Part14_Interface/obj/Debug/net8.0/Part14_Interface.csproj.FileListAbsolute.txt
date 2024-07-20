@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/bin/Debug/net8.0/Part14_Interface
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/bin/Debug/net8.0/Part14_Interface.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/bin/Debug/net8.0/Part14_Interface.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/bin/Debug/net8.0/Part14_Interface.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/bin/Debug/net8.0/Part14_Interface.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/refint/Part14_Interface.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/Part14_Interface.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part14_Interface/obj/Debug/net8.0/ref/Part14_Interface.dll

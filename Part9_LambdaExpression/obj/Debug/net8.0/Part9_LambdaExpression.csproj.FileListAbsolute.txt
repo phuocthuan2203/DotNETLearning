@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/bin/Debug/net8.0/Part9_LambdaExpression
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/bin/Debug/net8.0/Part9_LambdaExpression.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/bin/Debug/net8.0/Part9_LambdaExpression.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/bin/Debug/net8.0/Part9_LambdaExpression.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/bin/Debug/net8.0/Part9_LambdaExpression.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/refint/Part9_LambdaExpression.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/Part9_LambdaExpression.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part9_LambdaExpression/obj/Debug/net8.0/ref/Part9_LambdaExpression.dll

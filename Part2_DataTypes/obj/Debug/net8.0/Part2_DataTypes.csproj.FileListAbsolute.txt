@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/bin/Debug/net8.0/Part2_DataTypes
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/bin/Debug/net8.0/Part2_DataTypes.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/bin/Debug/net8.0/Part2_DataTypes.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/bin/Debug/net8.0/Part2_DataTypes.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/bin/Debug/net8.0/Part2_DataTypes.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/refint/Part2_DataTypes.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/Part2_DataTypes.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part2_DataTypes/obj/Debug/net8.0/ref/Part2_DataTypes.dll

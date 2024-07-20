@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/bin/Debug/net8.0/ndir
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/bin/Debug/net8.0/ndir.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/bin/Debug/net8.0/ndir.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/bin/Debug/net8.0/ndir.dll
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/bin/Debug/net8.0/ndir.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.dll
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/refint/ndir.dll
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ndir.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/ndos_StreamFile/ndir/obj/Debug/net8.0/ref/ndir.dll

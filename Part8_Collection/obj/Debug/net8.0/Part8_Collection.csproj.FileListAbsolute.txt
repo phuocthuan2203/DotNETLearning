@@ -1,0 +1,15 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/bin/Debug/net8.0/Part8_Collection
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/bin/Debug/net8.0/Part8_Collection.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/bin/Debug/net8.0/Part8_Collection.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/bin/Debug/net8.0/Part8_Collection.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/bin/Debug/net8.0/Part8_Collection.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/refint/Part8_Collection.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/Part8_Collection.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/obj/Debug/net8.0/ref/Part8_Collection.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part8_Collection/bin/Debug/net8.0/input.txt

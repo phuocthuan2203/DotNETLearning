@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/bin/Debug/net8.0/Part5_Method
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/bin/Debug/net8.0/Part5_Method.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/bin/Debug/net8.0/Part5_Method.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/bin/Debug/net8.0/Part5_Method.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/bin/Debug/net8.0/Part5_Method.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/refint/Part5_Method.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/Part5_Method.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part5_Method/obj/Debug/net8.0/ref/Part5_Method.dll

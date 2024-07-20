@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Part11_OOP/1.0.0": {
+        "dependencies": {
+          "Part11_ClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "Part11_OOP.dll": {}
+        }
+      },
+      "Part11_ClassLibrary1/1.0.0": {
+        "runtime": {
+          "Part11_ClassLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part11_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Part11_ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

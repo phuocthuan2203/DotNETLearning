@@ -1,0 +1,14 @@
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/bin/Debug/net8.0/Part3_Array
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/bin/Debug/net8.0/Part3_Array.deps.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/bin/Debug/net8.0/Part3_Array.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/bin/Debug/net8.0/Part3_Array.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/bin/Debug/net8.0/Part3_Array.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/refint/Part3_Array.dll
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.pdb
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/Part3_Array.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/dotNET/Part3_Array/obj/Debug/net8.0/ref/Part3_Array.dll
