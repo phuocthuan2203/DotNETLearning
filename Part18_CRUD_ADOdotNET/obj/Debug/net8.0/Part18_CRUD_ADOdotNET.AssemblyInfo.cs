@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Part18_CRUD_ADOdotNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ea1a98ddb608f39344113990043e4b77b5b6803")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+711023edcbe1ce43970f7aece93cfa306531b25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Part18_CRUD_ADOdotNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Part18_CRUD_ADOdotNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

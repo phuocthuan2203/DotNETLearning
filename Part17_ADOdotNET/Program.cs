@@ -11,7 +11,7 @@ public class Program
 
     public static void TestDbConnection()
     {
-        const string connectionString = "Server=localhost,1433;Database=HR;User Id=sa;Password=Thuan2203@;Encrypt=False;TrustServerCertificate=True;";
+        const string connectionString = "Server=localhost,1433;Database=ADOdotNET;User Id=sa;Password=Thuan2203@;Encrypt=False;TrustServerCertificate=True;";
 
         // FIRST TESTING CONNECTION SUCCESSFULLY WAY
         // using var conn = new SqlConnection(connectionString);
