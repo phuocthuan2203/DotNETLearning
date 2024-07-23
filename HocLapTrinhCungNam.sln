@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part20_RepositoryDesignPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part24_Logging", "Part24_Logging\Part24_Logging.csproj", "{154E6A58-6466-42E2-BC3E-C36914C2210E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part25_Attribute", "Part25_Attribute\Part25_Attribute.csproj", "{FE5D302F-28D0-4C3F-ACD1-0564AC02C53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{154E6A58-6466-42E2-BC3E-C36914C2210E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{154E6A58-6466-42E2-BC3E-C36914C2210E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{154E6A58-6466-42E2-BC3E-C36914C2210E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5D302F-28D0-4C3F-ACD1-0564AC02C53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5D302F-28D0-4C3F-ACD1-0564AC02C53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5D302F-28D0-4C3F-ACD1-0564AC02C53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5D302F-28D0-4C3F-ACD1-0564AC02C53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

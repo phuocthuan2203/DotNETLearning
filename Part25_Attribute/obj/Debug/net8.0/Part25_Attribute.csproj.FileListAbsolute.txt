@@ -1,0 +1,15 @@
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/bin/Debug/net8.0/Part25_Attribute
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/bin/Debug/net8.0/Part25_Attribute.deps.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/bin/Debug/net8.0/Part25_Attribute.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/bin/Debug/net8.0/Part25_Attribute.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/bin/Debug/net8.0/Part25_Attribute.pdb
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.sourcelink.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/refint/Part25_Attribute.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.pdb
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/Part25_Attribute.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part25_Attribute/obj/Debug/net8.0/ref/Part25_Attribute.dll
