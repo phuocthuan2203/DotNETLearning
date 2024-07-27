@@ -1,0 +1,15 @@
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/bin/Debug/net8.0/Part30_Thread
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/bin/Debug/net8.0/Part30_Thread.deps.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/bin/Debug/net8.0/Part30_Thread.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/bin/Debug/net8.0/Part30_Thread.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/bin/Debug/net8.0/Part30_Thread.pdb
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.sourcelink.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/refint/Part30_Thread.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.pdb
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/Part30_Thread.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part30_Thread/obj/Debug/net8.0/ref/Part30_Thread.dll
