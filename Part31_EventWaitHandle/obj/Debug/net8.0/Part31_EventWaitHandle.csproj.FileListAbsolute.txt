@@ -1,0 +1,15 @@
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/bin/Debug/net8.0/Part31_EventWaitHandle
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/bin/Debug/net8.0/Part31_EventWaitHandle.deps.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/bin/Debug/net8.0/Part31_EventWaitHandle.runtimeconfig.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/bin/Debug/net8.0/Part31_EventWaitHandle.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/bin/Debug/net8.0/Part31_EventWaitHandle.pdb
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.sourcelink.json
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/refint/Part31_EventWaitHandle.dll
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.pdb
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/Part31_EventWaitHandle.genruntimeconfig.cache
+/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/Debug/net8.0/ref/Part31_EventWaitHandle.dll

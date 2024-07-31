@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Part31_EventWaitHandle/1.0.0": {
+        "runtime": {
+          "Part31_EventWaitHandle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part31_EventWaitHandle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
