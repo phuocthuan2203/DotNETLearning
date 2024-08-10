@@ -1,0 +1,14 @@
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.AssemblyInfoInputs.cache
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.AssemblyInfo.cs
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.csproj.CoreCompileInputs.cache
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\bin\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.exe
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\bin\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.deps.json
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\bin\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.runtimeconfig.json
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\bin\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.dll
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\bin\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.pdb
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.dll
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\refint\Part34_HowAsyncAwaitActuallyWork.dll
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.pdb
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\Part34_HowAsyncAwaitActuallyWork.genruntimeconfig.cache
+C:\Users\Thuan\Documents\dotNET\Part34_HowAsyncAwaitActuallyWork\obj\Debug\net8.0\ref\Part34_HowAsyncAwaitActuallyWork.dll
