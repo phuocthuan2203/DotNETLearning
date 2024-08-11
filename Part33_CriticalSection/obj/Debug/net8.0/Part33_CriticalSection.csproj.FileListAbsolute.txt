@@ -1,0 +1,11 @@
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/bin/Debug/net8.0/Part33_CriticalSection
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/bin/Debug/net8.0/Part33_CriticalSection.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/bin/Debug/net8.0/Part33_CriticalSection.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.sourcelink.json
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/refint/Part33_CriticalSection.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part33_CriticalSection/obj/Debug/net8.0/Part33_CriticalSection.pdb

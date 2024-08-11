@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part14_Interface/Part14_Interface.csproj",
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part14_Interface/Part14_Interface.csproj",
       "projectName": "Part14_Interface",
-      "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part14_Interface/Part14_Interface.csproj",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part14_Interface/Part14_Interface.csproj",
       "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-      "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part14_Interface/obj/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part14_Interface/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

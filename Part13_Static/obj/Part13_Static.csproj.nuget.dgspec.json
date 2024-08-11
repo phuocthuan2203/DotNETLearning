@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part13_Static/Part13_Static.csproj": {}
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part13_Static/Part13_Static.csproj": {}
   },
   "projects": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part13_Static/Part13_Static.csproj": {
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part13_Static/Part13_Static.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part13_Static/Part13_Static.csproj",
+        "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part13_Static/Part13_Static.csproj",
         "projectName": "Part13_Static",
-        "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part13_Static/Part13_Static.csproj",
+        "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part13_Static/Part13_Static.csproj",
         "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-        "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part13_Static/obj/",
+        "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part13_Static/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

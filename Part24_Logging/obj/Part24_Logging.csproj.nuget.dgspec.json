@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part24_Logging/Part24_Logging.csproj": {}
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part24_Logging/Part24_Logging.csproj": {}
   },
   "projects": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part24_Logging/Part24_Logging.csproj": {
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part24_Logging/Part24_Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part24_Logging/Part24_Logging.csproj",
+        "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part24_Logging/Part24_Logging.csproj",
         "projectName": "Part24_Logging",
-        "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part24_Logging/Part24_Logging.csproj",
+        "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part24_Logging/Part24_Logging.csproj",
         "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-        "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part24_Logging/obj/",
+        "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part24_Logging/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

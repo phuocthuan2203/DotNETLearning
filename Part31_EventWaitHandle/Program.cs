@@ -1,36 +1,35 @@
 ﻿namespace Part31_EventWaitHandle;
 
-class Program
+internal class Program
 {
-    private static int _counter = 0;
-    private const int NumThreads = 10;
-    private static AutoResetEvent _autoResetEvent = new AutoResetEvent(true);
-
-    static void Main(string[] args)
-    {
-        Thread[] threads = new Thread[NumThreads];
-        
-        for (int i = 0; i < NumThreads; i++)
-        {
-            threads[i] = new Thread(IncrementCounter);
-            threads[i].Start();
-        }
-
-        foreach (Thread thread in threads)
-        {
-            thread.Join();
-        }
-
-        Console.WriteLine($"Final value of counter: {_counter}");
-    }
+    private static readonly BlockingQueue<string> Queue = new();
     
-    private static void IncrementCounter()
+    private static void Main(string[] args)
     {
-        for (int i = 0; i < 1000; i++)
+        var dequeueThread = new Thread(DequeueThread) { IsBackground = true };
+        dequeueThread.Start();
+        dequeueThread = new Thread(DequeueThread) { IsBackground = true };
+        dequeueThread.Start();
+        
+        string? str = null;
+        do
         {
-            _autoResetEvent.WaitOne();
-            _counter++;
-            _autoResetEvent.Set();
+            Console.Write("S: ");
+            str = Console.ReadLine();
+
+            if (!string.IsNullOrEmpty(str))
+            {
+                Queue.EnQueue(str);
+            }
+        } while (!string.IsNullOrEmpty(str));
+    }
+
+    private static void DequeueThread()
+    {
+        while (true)
+        {
+            var s = Queue.DeQueue();
+            Console.WriteLine($"Q = {s}");
         }
     }
 }

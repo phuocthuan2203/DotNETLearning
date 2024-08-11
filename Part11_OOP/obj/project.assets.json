@@ -18,7 +18,7 @@
     "Part11_ClassLibrary1/1.0.0": {
       "type": "project",
       "path": "../Part11_ClassLibrary1/Part11_ClassLibrary1.csproj",
-      "msbuildProject": "../Part11_ClassLibrary1/Part11_ClassLibrary1.csproj"
+      "msbuildProject": "../../../Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part11_ClassLibrary1/Part11_ClassLibrary1.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part11_OOP/Part11_OOP.csproj",
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part11_OOP/Part11_OOP.csproj",
       "projectName": "Part11_OOP",
-      "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part11_OOP/Part11_OOP.csproj",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part11_OOP/Part11_OOP.csproj",
       "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-      "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part11_OOP/obj/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part11_OOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/thuannguyenphuoc/Documents/02_dotNET/Part11_ClassLibrary1/Part11_ClassLibrary1.csproj": {
-              "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part11_ClassLibrary1/Part11_ClassLibrary1.csproj"
+            "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part11_ClassLibrary1/Part11_ClassLibrary1.csproj": {
+              "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part11_ClassLibrary1/Part11_ClassLibrary1.csproj"
             }
           }
         }

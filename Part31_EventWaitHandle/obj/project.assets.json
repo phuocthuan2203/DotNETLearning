@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/Part31_EventWaitHandle.csproj",
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part31_EventWaitHandle/Part31_EventWaitHandle.csproj",
       "projectName": "Part31_EventWaitHandle",
-      "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/Part31_EventWaitHandle.csproj",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part31_EventWaitHandle/Part31_EventWaitHandle.csproj",
       "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-      "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part31_EventWaitHandle/obj/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part31_EventWaitHandle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

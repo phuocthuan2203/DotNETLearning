@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part1_FirstProgram/Part1_FirstProgram.csproj",
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part1_FirstProgram/Part1_FirstProgram.csproj",
       "projectName": "Part1_FirstProgram",
-      "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part1_FirstProgram/Part1_FirstProgram.csproj",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part1_FirstProgram/Part1_FirstProgram.csproj",
       "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-      "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part1_FirstProgram/obj/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part1_FirstProgram/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

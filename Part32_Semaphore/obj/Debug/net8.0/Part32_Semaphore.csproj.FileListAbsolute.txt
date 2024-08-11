@@ -1,0 +1,11 @@
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/bin/Debug/net8.0/Part32_Semaphore
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/bin/Debug/net8.0/Part32_Semaphore.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/bin/Debug/net8.0/Part32_Semaphore.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.sourcelink.json
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/refint/Part32_Semaphore.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part32_Semaphore/obj/Debug/net8.0/Part32_Semaphore.pdb

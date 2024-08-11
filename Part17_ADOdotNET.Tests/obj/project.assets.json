@@ -3390,7 +3390,7 @@
     "Part17_ADOdotNET/1.0.0": {
       "type": "project",
       "path": "../Part17_ADOdotNET/Part17_ADOdotNET.csproj",
-      "msbuildProject": "../Part17_ADOdotNET/Part17_ADOdotNET.csproj"
+      "msbuildProject": "../../../Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part17_ADOdotNET/Part17_ADOdotNET.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3409,11 +3409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part17_ADOdotNET.Tests/Part17_ADOdotNET.Tests.csproj",
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part17_ADOdotNET.Tests/Part17_ADOdotNET.Tests.csproj",
       "projectName": "Part17_ADOdotNET.Tests",
-      "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part17_ADOdotNET.Tests/Part17_ADOdotNET.Tests.csproj",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part17_ADOdotNET.Tests/Part17_ADOdotNET.Tests.csproj",
       "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-      "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part17_ADOdotNET.Tests/obj/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part17_ADOdotNET.Tests/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -3429,8 +3429,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/thuannguyenphuoc/Documents/02_dotNET/Part17_ADOdotNET/Part17_ADOdotNET.csproj": {
-              "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part17_ADOdotNET/Part17_ADOdotNET.csproj"
+            "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part17_ADOdotNET/Part17_ADOdotNET.csproj": {
+              "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part17_ADOdotNET/Part17_ADOdotNET.csproj"
             }
           }
         }

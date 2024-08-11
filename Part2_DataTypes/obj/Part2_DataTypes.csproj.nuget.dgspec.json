@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj": {}
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj": {}
   },
   "projects": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj": {
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj",
+        "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj",
         "projectName": "Part2_DataTypes",
-        "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj",
+        "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part2_DataTypes/Part2_DataTypes.csproj",
         "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-        "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part2_DataTypes/obj/",
+        "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part2_DataTypes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

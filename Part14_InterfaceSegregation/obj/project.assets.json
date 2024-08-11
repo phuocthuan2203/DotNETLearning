@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part14_InterfaceSegregation/Part14_InterfaceSegregation.csproj",
+      "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part14_InterfaceSegregation/Part14_InterfaceSegregation.csproj",
       "projectName": "Part14_InterfaceSegregation",
-      "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part14_InterfaceSegregation/Part14_InterfaceSegregation.csproj",
+      "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part14_InterfaceSegregation/Part14_InterfaceSegregation.csproj",
       "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-      "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part14_InterfaceSegregation/obj/",
+      "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part14_InterfaceSegregation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

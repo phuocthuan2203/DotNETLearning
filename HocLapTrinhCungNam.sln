@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part30_Thread", "Part30_Thr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part31_EventWaitHandle", "Part31_EventWaitHandle\Part31_EventWaitHandle.csproj", "{292DD7E9-8C44-4E8E-8318-C0986B18BEA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part32_Semaphore", "Part32_Semaphore\Part32_Semaphore.csproj", "{6E398019-084E-4405-BBB5-324F28B6D9B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part33_CriticalSection", "Part33_CriticalSection\Part33_CriticalSection.csproj", "{1D5BCFF2-5681-4690-961A-01CB2FBFB57D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +166,13 @@ Global
 		{292DD7E9-8C44-4E8E-8318-C0986B18BEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{292DD7E9-8C44-4E8E-8318-C0986B18BEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{292DD7E9-8C44-4E8E-8318-C0986B18BEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E398019-084E-4405-BBB5-324F28B6D9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E398019-084E-4405-BBB5-324F28B6D9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E398019-084E-4405-BBB5-324F28B6D9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E398019-084E-4405-BBB5-324F28B6D9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5BCFF2-5681-4690-961A-01CB2FBFB57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5BCFF2-5681-4690-961A-01CB2FBFB57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5BCFF2-5681-4690-961A-01CB2FBFB57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5BCFF2-5681-4690-961A-01CB2FBFB57D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj": {}
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj": {}
   },
   "projects": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj": {
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj",
+        "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj",
         "projectName": "Part7_StreamFile_ncopy",
-        "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj",
+        "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part7_StreamFile_ncopy/Part7_StreamFile_ncopy.csproj",
         "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-        "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part7_StreamFile_ncopy/obj/",
+        "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part7_StreamFile_ncopy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

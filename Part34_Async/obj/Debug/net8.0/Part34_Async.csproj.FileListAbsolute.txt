@@ -1,14 +1,25 @@
-C:\Users\Thuan\Documents\dotNET\Part34_Async\bin\Debug\net8.0\Part34_Async.exe
-C:\Users\Thuan\Documents\dotNET\Part34_Async\bin\Debug\net8.0\Part34_Async.deps.json
-C:\Users\Thuan\Documents\dotNET\Part34_Async\bin\Debug\net8.0\Part34_Async.runtimeconfig.json
-C:\Users\Thuan\Documents\dotNET\Part34_Async\bin\Debug\net8.0\Part34_Async.dll
-C:\Users\Thuan\Documents\dotNET\Part34_Async\bin\Debug\net8.0\Part34_Async.pdb
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.AssemblyInfoInputs.cache
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.AssemblyInfo.cs
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.csproj.CoreCompileInputs.cache
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.dll
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\refint\Part34_Async.dll
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.pdb
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\Part34_Async.genruntimeconfig.cache
-C:\Users\Thuan\Documents\dotNET\Part34_Async\obj\Debug\net8.0\ref\Part34_Async.dll
+C:/Users/Thuan/Documents/dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.exe
+C:/Users/Thuan/Documents/dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.deps.json
+C:/Users/Thuan/Documents/dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.runtimeconfig.json
+C:/Users/Thuan/Documents/dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.dll
+C:/Users/Thuan/Documents/dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.pdb
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.AssemblyInfoInputs.cache
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.AssemblyInfo.cs
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.csproj.CoreCompileInputs.cache
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.dll
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/refint/Part34_Async.dll
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.pdb
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.genruntimeconfig.cache
+C:/Users/Thuan/Documents/dotNET/Part34_Async/obj/Debug/net8.0/ref/Part34_Async.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/bin/Debug/net8.0/Part34_Async.pdb
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.AssemblyInfoInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.AssemblyInfo.cs
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.csproj.CoreCompileInputs.cache
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.sourcelink.json
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/refint/Part34_Async.dll
+/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part34_Async/obj/Debug/net8.0/Part34_Async.pdb

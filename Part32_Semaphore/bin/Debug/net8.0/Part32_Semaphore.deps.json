@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Part32_Semaphore/1.0.0": {
+        "runtime": {
+          "Part32_Semaphore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part32_Semaphore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

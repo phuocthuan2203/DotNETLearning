@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj": {}
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj": {}
   },
   "projects": {
-    "/Users/thuannguyenphuoc/Documents/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj": {
+    "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj",
+        "projectUniqueName": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj",
         "projectName": "Part18_CRUD_ADOdotNET",
-        "projectPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj",
+        "projectPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part18_CRUD_ADOdotNET/Part18_CRUD_ADOdotNET.csproj",
         "packagesPath": "/Users/thuannguyenphuoc/.nuget/packages/",
-        "outputPath": "/Users/thuannguyenphuoc/Documents/02_dotNET/Part18_CRUD_ADOdotNET/obj/",
+        "outputPath": "/Users/thuannguyenphuoc/Library/CloudStorage/OneDrive-Personal/Tài liệu/02_dotNET/Part18_CRUD_ADOdotNET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuannguyenphuoc/.nuget/NuGet/NuGet.Config"

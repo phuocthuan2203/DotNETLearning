@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Part7_StreamFile_ncopy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ed909cbc2eb28ebd92ffcabd0f7e7908dd99e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ef85eb70e218c2a9f18228760123079d9dbed1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Part7_StreamFile_ncopy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Part7_StreamFile_ncopy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

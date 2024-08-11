@@ -2,7 +2,10 @@
 
 class Program
 {
-    
+    private static int _counter = 0;
+    private const int NumThreads = 10;
+    private static readonly object LockObj = new object();
+
     static void Main(string[] args)
     {
         // var cts = new CancellationTokenSource();
@@ -21,37 +24,63 @@ class Program
         // // cts.Cancel();
         // cts.CancelAfter(10000);
 
-        Thread countNumbers = new Thread(CountNumbers);
-        Thread writeMessages = new Thread(WriteMessages);
-        
-        countNumbers.Start();
-        writeMessages.Start();
+        #region Thread demo
+        // var thread1 = new Thread(PrintNumbers);
+        // var thread2 = new Thread(PrintNumbers);
+        //
+        // thread1.Start();
+        // thread2.Start();
+        //
+        // thread1.Join(); // Wait for thread1 to complete
+        // thread2.Join(); // Wait for thread2 to complete
+        // // thread1.IsBackground = true;
+        // // thread2.IsBackground = true;
+        //
+        // Console.WriteLine("Main thread complete.");
+        #endregion
 
-        // waiting for 2 threads completed
-        countNumbers.Join();
-        writeMessages.Join();
-
-        Console.WriteLine("Both threads have completed.");
+        ExampleWithoutSynchronization();
     }
 
-    private static void CountNumbers()
+    static void PrintNumbers()
     {
-        for (int i = 1; i <= 10; i++)
+        for (int i = 0; i < 10; i++)
         {
-            Console.WriteLine($"Counting: {i}");
-            Thread.Sleep(1000);
+            Console.WriteLine($"{Environment.CurrentManagedThreadId}: {i}");
+            Thread.Sleep(100); // Simulate some work
         }
+    }
+
+    #region Example without Synchronization
+    private static void ExampleWithoutSynchronization()
+    {
+        Thread[] threads = new Thread[NumThreads];
+
+        for (int i = 0; i < NumThreads; i++)
+        {
+            threads[i] = new Thread(IncrementCounter);
+            threads[i].Start();
+        }
+
+        foreach (Thread thread in threads)
+        {
+            thread.Join();
+        }
+
+        Console.WriteLine($"Final counter value: {_counter}");
     }
     
-    private static void WriteMessages()
+    private static void IncrementCounter()
     {
-        string[] messages = { "Hello, World!", "Learning about threads.", "Threads can run concurrently.", "This is thread programming in .NET." };
-        foreach (string message in messages)
+        for (int i = 0; i < 1000; i++)
         {
-            Console.WriteLine($"Message: {message}");
-            Thread.Sleep(1500); // Simulate work by sleeping for 1.5 seconds
+            lock (LockObj)
+            {
+                _counter++;
+            }
         }
     }
+    #endregion
 
     private static void Print(object? p)
     {
